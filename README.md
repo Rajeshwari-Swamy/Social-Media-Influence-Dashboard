@@ -24,3 +24,20 @@ To analyze social media usage, user engagement, and audience behavior across dif
 •	Which platform has the highest follower growth? 
 
 •	Which posts or campaigns generated the highest reach and impressions? 
+
+# Process
+
+•	Collected the social media dataset from a reliable source.
+
+•	Cleaned and transformed the data by handling missing values and duplicates.
+
+•	Performed data analysis to identify engagement trends and user behavior.
+
+•	Created calculated measures and KPIs using Power BI.
+
+•	Designed interactive dashboards with charts, filters, and slicers.
+
+•	Analyzed the results and generated insights to support data-driven decision-making.
+
+
+
