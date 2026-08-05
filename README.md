@@ -1,2 +1,2 @@
-# Social-Media-Influence-Dashboard
-The Social Media Influence Dashboard provides insights into user engagement, platform usage, content preferences, and audience behavior across different social media platforms. It helps identify trends, measure engagement metrics, and analyze the impact of social media activities.
+# Objective
+To analyze social media usage, user engagement, and audience behavior across different platforms. To provide actionable insights that help improve content strategy, increase engagement, and support data-driven decision-making.
