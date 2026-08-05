@@ -39,5 +39,20 @@ To analyze social media usage, user engagement, and audience behavior across dif
 
 •	Analyzed the results and generated insights to support data-driven decision-making.
 
+# Insights
+
+•	Video and Reel content achieved the highest engagement compared to other content types.
+
+•	Instagram and YouTube generated higher user interaction than other platforms.
+
+•	The 18–34 age group was the most active audience on social media.
+
+•	Posts published during peak hours received better reach and engagement.
+
+•	Likes, comments, and shares increased significantly for visually engaging content.
+
+•	Audience engagement varied across platforms, highlighting the need for platform-specific content strategies.
+
+
 
 
