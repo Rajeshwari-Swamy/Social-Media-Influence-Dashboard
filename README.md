@@ -53,6 +53,9 @@ To analyze social media usage, user engagement, and audience behavior across dif
 
 •	Audience engagement varied across platforms, highlighting the need for platform-specific content strategies.
 
+# Dashboard
+
+<a href="https://github.com/Rajeshwari-Swamy/Social-Media-Influence-Dashboard/blob/main/SCREENSHOT1.png"> View Dashboard</a>
 
 
 
